@@ -1,0 +1,13 @@
+{"level":"info","msg":"init mysql success","time":"2022-03-14T14:22:41+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-14T14:22:41+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-14T14:23:30+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-14T14:23:51+08:00"}
+{"level":"info","msg":"From cache, user value: {\"ID\":1,\"Name\":\"周建添\",\"Number\":\"450121196901083316\",\"Phone\":\"15078747935\",\"Gender\":1,\"Age\":53,\"Stature\":165,\"Weight\":60,\"Address\":\"广西壮族自治区南宁市\",\"Occupation\":\"农民\"}","time":"2022-03-14T14:23:51+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-14T14:24:04+08:00"}
+{"level":"error","msg":"update user: 1 to mysql error: Error 1103: Incorrect table name ''","time":"2022-03-14T14:24:04+08:00"}
+{"level":"info","msg":"init mysql success","time":"2022-03-14T14:27:07+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-14T14:27:07+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-14T14:27:11+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-14T14:27:26+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-14T14:28:06+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-14T14:28:22+08:00"}

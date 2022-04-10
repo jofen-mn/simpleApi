@@ -1,0 +1,6 @@
+{"level":"info","msg":"init mysql success","time":"2022-03-14T18:19:22+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-14T18:19:22+08:00"}
+{"level":"info","msg":"init mysql success","time":"2022-03-14T18:34:08+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-14T18:34:08+08:00"}
+{"level":"info","msg":"init mysql success","time":"2022-03-14T18:50:17+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-14T18:50:17+08:00"}

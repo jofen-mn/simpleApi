@@ -1,0 +1,28 @@
+server:
+  name: simpleapi
+  host: 0.0.0.0
+  httpport: 8081
+  grpcport: 8082
+
+logger:
+  logdir: ./logs
+  filename: simpleApi.log
+  level: debug
+  format: json
+
+mysql:
+  ip: 192.168.145.160
+  port: 3306
+  database: simpledb
+  charset: utf8
+  user: root
+  password: 123456
+  maxidleconns: 50
+  maxopenconns: 100
+
+redis:
+  address: 192.168.145.160:6379
+  password: ""
+  db: 0
+  poolsize: 100
+  minidleconns: 10

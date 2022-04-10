@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+package simple;
+
+message UserRequest {
+    int32 user_id = 1;
+}
+
+message UserResponse {
+    string name = 1;
+    string number = 2;
+    string phone = 3;
+    int32 gender = 4;
+    int32 age = 5;
+    int32 stature = 6;
+    int32 weight = 7;
+    string address = 8;
+    string occupation = 9;
+}
+
+service SimpleApi {
+    rpc GetUserInfo (UserRequest) returns (UserResponse) {}
+}

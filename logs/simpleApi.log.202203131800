@@ -1,0 +1,6 @@
+{"level":"info","msg":"init mysql success","time":"2022-03-13T18:38:46+08:00"}
+{"level":"panic","msg":"connect redis error: dial tcp 192.168.145.160:6379: connectex: No connection could be made because the target machine actively refused it.","time":"2022-03-13T18:38:47+08:00"}
+{"level":"info","msg":"init mysql success","time":"2022-03-13T18:47:55+08:00"}
+{"level":"panic","msg":"connect redis error: dial tcp 192.168.145.160:6379: connectex: No connection could be made because the target machine actively refused it.","time":"2022-03-13T18:47:56+08:00"}
+{"level":"info","msg":"init mysql success","time":"2022-03-13T18:48:46+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-13T18:48:46+08:00"}

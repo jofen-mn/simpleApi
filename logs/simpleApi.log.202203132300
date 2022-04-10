@@ -1,0 +1,6 @@
+{"level":"info","msg":"init mysql success","time":"2022-03-13T23:08:19+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-13T23:08:22+08:00"}
+{"level":"info","msg":"init mysql success","time":"2022-03-13T23:09:16+08:00"}
+{"level":"info","msg":"connect redis success ping -\u003e PONG","time":"2022-03-13T23:09:19+08:00"}
+{"level":"info","msg":"Host 127.0.0.1:8081","time":"2022-03-13T23:15:10+08:00"}
+{"level":"error","msg":"update user: 1 to mysql error: invalid query condition: map[id:1]","time":"2022-03-13T23:15:10+08:00"}
